@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.alexischalix.beautyscreenshots.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.alexischalix.beautyscreenshots.MyBundle
 
 class MyApplicationService {
 
